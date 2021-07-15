@@ -1,6 +1,7 @@
 
 # MarvelQuizs
 A quiz application on CLI.  It asks some questions about [MARVEL TV SERIES](https://replit.com/@pritamkr/MarvelQuizs#index.js).
+A game built using CLI with JavaScript language for fun. The game asks you some basics questions about Marvel quiz series. if you give the correct answer, then your score will increase by 3 in every correct answer and if your answer will worng your score will decrease by 2.
 
 ### It'll ask your name first
 
